@@ -4,7 +4,7 @@
   "description": "Demo chatbot for APU",
   "main": "webhook.js",
   "scripts": {
-    "start": "node webhook.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/ahmadshah/apu-chatbot-talk#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.3"
+    "apiai": "^4.0.3",
+    "dotenv": "^5.0.1",
+    "node-telegram-bot-api": "^0.30.0"
   }
 }
