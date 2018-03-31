@@ -19,6 +19,7 @@
   "dependencies": {
     "apiai": "^4.0.3",
     "dotenv": "^5.0.1",
+    "firebase": "^4.12.1",
     "node-telegram-bot-api": "^0.30.0"
   }
 }
