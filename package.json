@@ -1,0 +1,23 @@
+{
+  "name": "apu-chatbot",
+  "version": "1.0.0",
+  "description": "Demo chatbot for APU",
+  "main": "webhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadshah/apu-chatbot-talk.git"
+  },
+  "author": "Ahmad Shah Hafizan Hamidin <ahmadshahhafizan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmadshah/apu-chatbot-talk/issues"
+  },
+  "homepage": "https://github.com/ahmadshah/apu-chatbot-talk#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
